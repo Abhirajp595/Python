@@ -181,6 +181,7 @@ Perform the following steps:
 a.	Identify the shape of the dataset
 b.	Identify variables with null values
 c.	Identify variables with unique values
+
 2.	Generate a separate dataset for numerical and categorical variables
 3.	EDA of numerical variables:
 a.	Missing value treatment
