@@ -172,9 +172,6 @@ SaleType	: Type of sale
 SaleCondition	: Condition of sale
 
 
-Note: 
-1)	Download the “PEP1.csv” using the link given in the Feature Engineering project problem statement
-2)	For a detailed description of the dataset, you can download and refer to data_description.txt using the link given in the Feature Engineering project problem statement
 
 
 
